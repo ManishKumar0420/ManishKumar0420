@@ -1,122 +1,65 @@
-<!-- ================= HERO ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:7C93FF&height=260&section=header&text=Manish%20Kumar&fontSize=48&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20System%20Architect&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:7C93FF&height=220&section=header&text=Manish%20Kumar&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20System%20Architect&descAlignY=58&descSize=16"/>
 
 <div align="center">
-<p align="center">
-  <img
+
+ <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=7C93FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;ERP+System+Architect;Building+Scalable+Platforms;AI+Powered+Developer+Tools"
   />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ManishKumar0420&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-```yaml
-name: Manish Kumar
-location: Meerut, India
-
-role:
-  - Full Stack Developer
-  - ERP System Architect
-  - Backend Engineer
-
-experience: 3+ Years
-
-specialization:
-  - Scalable ERP Platforms
-  - REST APIs
-  - GraphQL
-  - RBAC Systems
-  - Multi-Database Architectures
-  - AI/ML Developer Tools
-
-currently_working_on:
-  - System Design
-  - Golang
-  - Performance Optimization
-  - Distributed Architectures
-
-philosophy:
-  "I don't just build features.
-   I engineer systems that scale."
-```
----
-
-# TECH STACK ⚙️
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,react,nextjs,php,python,js,ts,mysql,postgres,mongodb,redis,docker,linux,git,github,vscode&theme=dark"/>
+### Backend Engineer focused on scalable systems, ERP architectures, automation workflows, and AI-powered tooling.
 
 </div>
 
 ---
 
-# SYSTEM ARCHITECTURE VIEW 🏗
-
-```txt
-                   ┌─────────────────┐
-                   │  React / Next   │
-                   └────────┬────────┘
-                            │
-                  ┌─────────▼─────────┐
-                  │   Node.js APIs    │
-                  │ Express / PHP     │
-                  └─────────┬─────────┘
-                            │
-         ┌──────────────────┼──────────────────┐
-         │                  │                  │
- ┌───────▼───────┐   ┌──────▼──────┐  ┌────────▼────────┐
- │ PostgreSQL/   │   │ MongoDB     │  │ Provisioning    │
- │ MySQL         |   |  Real-time  |  |  Automation     |
- | Optimized SQL │   └─────────────┘  └─────────────────┘
- └───────────────┘  
-```
-
----
-
-# GITHUB ANALYTICS 📊
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishKumar0420&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C93FF&icon_color=7C93FF&text_color=94A3B8"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishKumar0420&theme=dark&hide_border=true&background=0D1117&ring=7C93FF&fire=7C93FF&currStreakLabel=94A3B8"/>
+<img src="https://skillicons.dev/icons?i=go,nodejs,react,nextjs,php,python,ts,js,mysql,postgres,mongodb,redis,docker,linux,git&theme=dark"/>
 
 </div>
 
 ---
 
-# CONTRIBUTION GRAPH 🐍
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ManishKumar0420/ManishKumar0420/output/github-contribution-grid-snake-dark.svg"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManishKumar0420&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C93FF&icon_color=7C93FF&text_color=94A3B8"/>
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishKumar0420&theme=dark&hide_border=true&background=0D1117&ring=7C93FF&fire=7C93FF&currStreakLabel=94A3B8"/>
 
 </div>
 
 ---
 
-# ENGINEERING PRINCIPLES ⚡
-
-```txt
-→ Clean Architecture
-→ Scalable Systems
-→ Automation First
-→ Performance Matters
-→ Deep Understanding Over Surface Knowledge
-```
-
----
-
-# CONNECT 🌐
+# 🚀 Core Specialties
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+| Backend | Architecture | Databases | Tooling |
+|---|---|---|---|
+| REST APIs | ERP Systems | PostgreSQL | AI/ML Tools |
+| NestJS | RBAC | MongoDB | Automation |
+| Node.js | Provisioning | MySQL | CI/CD |
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/ManishKumar0420">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -132,10 +75,4 @@ philosophy:
 
 ---
 
-<div align="center">
-
-### Engineering Systems Beyond Just Code ⚡
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:7C93FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:7C93FF&height=90&section=footer"/>
